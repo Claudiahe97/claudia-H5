@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Claudia Pages 嘿嘿！
 
 You can use the [editor on GitHub](https://github.com/Claudiahe97/claudia-H5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Header 1 嘿嘿
+## Header 2 哈哈哈
+### Header 3 哈哈哈哈哈
 
 - Bulleted
 - List
